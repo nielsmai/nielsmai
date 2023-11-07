@@ -18,7 +18,7 @@ I'm currently a software engineering student at McGill University.
 
 **About me:**
 
-- 🔭 I’m currently working on my software engineering degree
+- 🔭 I’m currently working on my Capstone Design Project! We're building a digital trombone 🎶
 - 🐉 I love to dragonboat
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: he/him
