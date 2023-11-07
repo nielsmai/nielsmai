@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="151" src="github_profile_picture.png" alt="Your Image Description" />
+  <img width="151" src="github_profile_picture.png" alt="Memoji profile picture" />
 </p>
 <h2>
 Hi! I'm Niels 👋
